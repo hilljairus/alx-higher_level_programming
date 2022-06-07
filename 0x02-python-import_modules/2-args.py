@@ -11,5 +11,5 @@ if __name__ == "__main__":
         print("{} arguments:".format(i))
 
     if i >= 1:
-        for index, arg in enumerate(sys.argv[1:],start=1):
+        for index, arg in enumerate(sys.argv[1:], start=1):
             print(f"{index}: {arg}")
