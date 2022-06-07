@@ -11,4 +11,3 @@ def no_c(my_string):
             new_string += letter
 
     return new_string
-
